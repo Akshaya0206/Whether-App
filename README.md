@@ -19,13 +19,13 @@ A simple weather application built with React that allows users to check the cur
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: <br>
 
-   ```bash
-   -git clone https://github.com/Akshaya0206/Whether-App.git
-2.Navigate into the project directory:
-  -cd Whether-App
-3.Install the dependencies:
-  -npm install
-4.Start the development server:
+   ```bash <br>
+   -git clone https://github.com/Akshaya0206/Whether-App.git<br>
+2.Navigate into the project directory: <br>
+  -cd Whether-App <br>
+3.Install the dependencies: <br>
+  -npm install <br>
+4.Start the development server: <br>
   -npm run dev
